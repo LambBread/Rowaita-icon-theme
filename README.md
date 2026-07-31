@@ -1,3 +1,5 @@
+This fork adds a new theme variant, "Rowaita-Lavender-Dark".
+
 # Rowaita icons
 
 <p align="center">
