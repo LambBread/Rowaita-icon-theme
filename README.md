@@ -1,4 +1,4 @@
-This fork adds a new theme variant, "Rowaita-Lavender-Dark".
+This fork adds a new theme variant, "Rowaita-Lavender-Dark", and a Nix flake.
 
 # Rowaita icons
 
