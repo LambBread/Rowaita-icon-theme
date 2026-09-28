@@ -42,8 +42,8 @@
                 '';
 
                 installPhase = ''
-                    mkdir -p $out/share/themes
-                    cp -r Rowaita* $out/share/themes
+                    mkdir -p $out/share/icons
+                    cp -r Rowaita* $out/share/icons
                 '';
             }
         );
